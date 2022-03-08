@@ -27,7 +27,7 @@ Knowledge in CI/CD Pipelines as GitLab, Jenkins
 ### 📈 GitHub stats
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=xjohnyknox&theme=dracula"/></p>
 
-### 🙊 Here is some jokes for u...
+### 🙊 Here is a joke 4 u today:
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
 
 <!-- <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/source.gif" width="280" height="auto" /></a> -->
