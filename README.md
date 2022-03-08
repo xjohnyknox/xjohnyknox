@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/xjohnyknox/xjohnyknox/master/banner.jpeg)
+![](https://raw.githubusercontent.com/xjohnyknox/xjohnyknox/main/banner.jpeg)
 
 ## Hello, welcome to my GitHub! <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" width="25px">
 
